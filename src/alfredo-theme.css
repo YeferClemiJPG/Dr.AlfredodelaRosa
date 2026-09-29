@@ -1,0 +1,45 @@
+/* Profile-specific palette; shared layout and motion remain unchanged. */
+:root {
+  --canvas: #f4f6f2;
+  --surface-soft: #eaf0ea;
+  --ink: #183c3c;
+  --muted: #496560;
+  --line: #183c3c24;
+  --navy: #183c3c;
+  --navy-soft: #284e4c;
+  --medium: #366763;
+  --blue-light: #83a99e;
+}
+.hero .portrait {
+  transform: none;
+  object-position: 50% 0%;
+}
+.hero-name {
+  font-size: clamp(4.3rem, 7.7vw, 7.1rem);
+}
+.hero-name .name-accent {
+  white-space: nowrap;
+}
+.site-header {
+  background-color: #f4f6f2ed;
+}
+.biography-banner .biography-backdrop {
+  mask-image: linear-gradient(transparent, #000 5%, #000 86%, transparent);
+}
+@media (max-width: 900px) {
+  .biography-banner .biography-backdrop {
+    mask-image:
+      linear-gradient(90deg, transparent, #000 10%, #000 90%, transparent),
+      linear-gradient(transparent, #000 5%, #000 82%, transparent);
+  }
+}
+@media (max-width: 760px) {
+  .hero-name {
+    font-size: clamp(2.7rem, 7.6vw, 4.8rem);
+  }
+}
+@media (max-width: 520px) {
+  .hero-name {
+    font-size: clamp(3.25rem, 13.2vw, 5rem);
+  }
+}

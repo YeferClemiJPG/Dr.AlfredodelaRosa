@@ -1,0 +1,44 @@
+{
+  "slug": "alfredo-de-la-rosa",
+  "honorific": "Dr.",
+  "givenName": "Alfredo",
+  "familyName": "de la Rosa",
+  "roles": ["Ortopedista y traumatólogo", "Secretario general SCCOT"],
+  "organization": "SCCOT",
+  "specialty": "Ortopedia y traumatología",
+  "editorialSpecialty": "Ortopedista y traumatólogo",
+  "biography": "Médico egresado y docente de la Universidad Libre, donde coordina la Especialización en Ortopedia y Traumatología. Es secretario general de la SCCOT y magistrado del Tribunal de Ética Médica del Atlántico para el período 2025–2027. Su trayectoria reúne práctica médica, formación de especialistas y ética profesional.",
+  "biographySources": [
+    {
+      "label": "Universidad Libre",
+      "url": "https://www.unilibre.edu.co/noticias/orgullo-unilibrista-dr-alfredo-de-la-rosa-designado-secretario-general-de-sccot-y-magistrado-del-tribunal-de-etica-medica-del-atlantico/"
+    },
+    {
+      "label": "SCCOT",
+      "url": "https://sccot.org/nosotros/junta/"
+    }
+  ],
+  "email": "secretario@sccot.org.co",
+  "phone": "+573164541591",
+  "phoneDisplay": "+57 316 454 1591",
+  "instagramPersonal": "DR.ALFREDODELAROSA",
+  "instagramInstitutional": "FUNDACIONCLEMI",
+  "portfolio": "https://clemi.pro/portafolio",
+  "logo": "assets/logo-clemi-oficial-sin-texto.svg",
+  "portrait": "assets/alfredo-portada.png",
+  "portraitAlt": "Dr. Alfredo de la Rosa",
+  "portraitWidth": 335,
+  "portraitHeight": 597,
+  "instagramPortrait": "assets/alfredo-instagram.png",
+  "instagramPortraitWidth": 1080,
+  "instagramPortraitHeight": 1080,
+  "institutionalPhoto": "assets/clemi-formacion.jpeg",
+  "scienceIllustration": "assets/clemi-science-illustration.png",
+  "motto": "Entrenamos hoy, investigamos para el mañana, transformamos vidas",
+  "publicUrl": "https://yeferclemijpg.github.io/Dr.AlfredodelaRosa/",
+  "logoWidth": 156,
+  "logoHeight": 170,
+  "biographyBanner": "assets/alfredo-trayectoria-banner.png",
+  "portfolioIllustration": "assets/clemi-portfolio-sculpture.png",
+  "contactWaves": "assets/contact-petrol-waves.png"
+}
