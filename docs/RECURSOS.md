@@ -2,6 +2,19 @@
 
 Fecha: 29 de septiembre de 2026.
 
+## Corrección de asignación de fotografías
+
+La indicación posterior del usuario sustituye la asignación inicial documentada abajo:
+
+- Portada activa: assets/alfredo-portada-formal.png, nuevo adjunto generated-image-2026-09-29-14-22-00.png (1776 × 2368), copiado sin edición.
+- Banner activo: assets/alfredo-trayectoria-banner-v2.png, edición generativa de la foto 3 con chaqueta gris. Referencia original conservada en assets/alfredo-portada.png.
+- Instagram conserva la foto 1. El banner v1 y sus originales se conservan como históricos.
+- Se conservan paleta, información, iconos, distribución y animaciones.
+
+Prompt de la corrección, herramienta integrada image_gen:
+
+Use case: identity-preserve. Edit this supplied photograph into a landscape 2:1 medical editorial website biography banner. This is the CORRECT man, clothing and pose to preserve: gray blazer, open-collar light shirt without tie, standing outdoors, one hand in trouser pocket. Preserve his exact facial proportions, age, expression, short gray hair, pose and clothing as faithfully as possible; do not beautify, change face, invent a suit or tie. Convert the man to photographic grayscale, with restrained contrast. Replace and extend the outdoor background with a seamless deep petrol teal #102e30 satin backdrop with faint champagne gold illumination at the far edges. Position his head, shoulders, torso and hands on the LEFT within 6%-44% canvas width, with generous headroom and no cropped head or shoulders. Right 54% of canvas remains calm empty dark teal for separate live HTML title and biography. Elegant formal premium editorial photograph. No words, letters, logos, watermarks, frames or other people. Full-bleed opaque image.
+
 ## Fotografías aportadas por el usuario
 
 - assets/alfredo-instagram.png: imagen 1, perfil de Instagram, conservada.

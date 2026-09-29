@@ -4,7 +4,7 @@
 - Mantener el orden Perfil, Trayectoria, Conexiones, Contacto; iconos y animaciones heredados.
 - Datos en content/profile.json. No editar index.html ni contacto.vcf manualmente.
 - Teléfono y WhatsApp +573164541591, correo secretario@sccot.org.co, Instagram dr.alfredodelarosa.
-- Foto 1: Instagram. Foto 2: referencia del banner generado en escala de grises. Foto 3: portada original, sin regenerar. Mantener apariencia e identidad.
+- Asignación corregida por el usuario: foto 1 para Instagram, sin cambios; foto 2 formal para portada (nuevo adjunto alfredo-portada-formal.png, sin regenerar); foto 3 con chaqueta gris para el banner alfredo-trayectoria-banner-v2.png en escala de grises. Mantener apariencia e identidad.
 - Paleta verde petróleo, perla y oro. Logo CLEMI oficial sin modificaciones. Cargos y biografía deben tener fuentes institucionales.
 - Mantener nombre, especialidad, trayectoria e Instagram como HTML sobre el banner, evitando recortar cabeza o rostro en móvil.
 - Guardar contacto descarga vCard sin QR. Llamar muestra únicamente ese texto con su icono centrado. No reintroducir fuentes, créditos, controles de animación ni volver arriba en la interfaz.

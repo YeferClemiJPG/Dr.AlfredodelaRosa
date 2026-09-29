@@ -25,10 +25,10 @@
   "instagramInstitutional": "FUNDACIONCLEMI",
   "portfolio": "https://clemi.pro/portafolio",
   "logo": "assets/logo-clemi-oficial-sin-texto.svg",
-  "portrait": "assets/alfredo-portada.png",
+  "portrait": "assets/alfredo-portada-formal.png",
   "portraitAlt": "Dr. Alfredo de la Rosa",
-  "portraitWidth": 335,
-  "portraitHeight": 597,
+  "portraitWidth": 1776,
+  "portraitHeight": 2368,
   "instagramPortrait": "assets/alfredo-instagram.png",
   "instagramPortraitWidth": 1080,
   "instagramPortraitHeight": 1080,
@@ -38,7 +38,7 @@
   "publicUrl": "https://yeferclemijpg.github.io/Dr.AlfredodelaRosa/",
   "logoWidth": 156,
   "logoHeight": 170,
-  "biographyBanner": "assets/alfredo-trayectoria-banner.png",
+  "biographyBanner": "assets/alfredo-trayectoria-banner-v2.png",
   "portfolioIllustration": "assets/clemi-portfolio-sculpture.png",
   "contactWaves": "assets/contact-petrol-waves.png"
 }
