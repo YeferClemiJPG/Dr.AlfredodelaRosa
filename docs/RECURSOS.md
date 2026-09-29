@@ -2,6 +2,8 @@
 
 Fecha: 29 de septiembre de 2026.
 
+Contacto: por corrección expresa del usuario, el fondo activo es assets/contact-blue-waves.png, copia exacta del fondo azul SCCOT de la landing de Dra. Reyes. Las ondas verdes quedan como histórico, sin uso. No cambian las demás secciones.
+
 ## Corrección de asignación de fotografías
 
 La indicación posterior del usuario sustituye la asignación inicial documentada abajo:
