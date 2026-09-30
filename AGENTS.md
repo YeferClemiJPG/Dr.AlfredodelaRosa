@@ -1,7 +1,7 @@
 # Landing NFC · Dr. Alfredo de la Rosa
 
 - Este repositorio contiene únicamente la landing de Alfredo. No editar el repositorio de Claudia.
-- Mantener el orden Perfil, Trayectoria, Conexiones, Contacto; iconos y animaciones heredados.
+- Mantener el orden Perfil, Trayectoria, Contacto, Conexiones; iconos y animaciones heredados.
 - Datos en content/profile.json. No editar index.html ni contacto.vcf manualmente.
 - Teléfono y WhatsApp +573164541591, correo secretario@sccot.org.co, Instagram dr.alfredodelarosa.
 - Asignación corregida por el usuario: foto 1 para Instagram, sin cambios; foto 2 formal para portada (nuevo adjunto alfredo-portada-formal.png, sin regenerar); foto 3 con chaqueta gris para el banner alfredo-trayectoria-banner-v2.png en escala de grises. Mantener apariencia e identidad.
