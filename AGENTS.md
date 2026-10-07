@@ -4,7 +4,7 @@
 - Mantener el orden Perfil, Trayectoria, Contacto, Conexiones; iconos y animaciones heredados.
 - Datos en content/profile.json. No editar index.html ni contacto.vcf manualmente.
 - Teléfono y WhatsApp +573164541591, correo secretario@sccot.org.co, Instagram dr.alfredodelarosa.
-- Asignación corregida por el usuario: foto 1 para Instagram, sin cambios; foto 2 formal para portada (nuevo adjunto alfredo-portada-formal.png, sin regenerar); foto 3 con chaqueta gris para el banner alfredo-trayectoria-banner-v2.png en escala de grises. Mantener apariencia e identidad.
+- Asignación corregida por el usuario: foto 1 para Instagram, sin cambios; foto 2 formal para portada (nuevo adjunto alfredo-portada-formal.png, sin regenerar); foto 3 con chaqueta gris para el banner alfredo-trayectoria-color.png a color. Mantener apariencia e identidad.
 - Paleta verde petróleo, perla y oro. Logo CLEMI oficial sin modificaciones. Cargos y biografía deben tener fuentes institucionales.
 - Excepción expresa del usuario: Contacto usa exactamente assets/contact-blue-waves.png de la landing de Dra. Reyes, en azul SCCOT. No aplicar verde petróleo a ese fondo. Conservar cristal, iconos y distribución.
 - Mantener nombre, especialidad, trayectoria e Instagram como HTML sobre el banner, evitando recortar cabeza o rostro en móvil.
@@ -16,3 +16,5 @@
 - Ilustración de portada personalizada el 7/10/2026: Cadera y pelvis en public/assets/alfredo-cadera-illustration.png. Mantener el estilo común azul marino, cristal, marfil y oro. No restaurar el pie de Claudia en este perfil. Prompt y procedencia en docs/ILUSTRACION_PERFIL.md.
 
 - Corrección vigente del libro (7/10/2026): scienceIllustration usa assets/alfredo-cadera-libro-v2.png. Un único libro abierto normal con el objeto de la especialidad apoyado encima; no reutilizar la base anterior con páginas o libros duplicados. Se conservan los recursos anteriores como históricos. Prompt en docs/ILUSTRACION_PERFIL.md.
+
+- Actualización del 7/10/2026: el usuario solicita todos los banners a color. Banner activo alfredo-trayectoria-color.png (1774 × 887), colorización generativa del banner anterior usando una fotografía a color como referencia. Conservar los originales y el encuadre. Procedencia en docs/BANNER_COLOR.md.
