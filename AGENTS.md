@@ -14,3 +14,5 @@
 - Publicación estática por GitHub Pages en main; confirmar despliegue y sitio antes de afirmar disponibilidad. Hostinger queda fuera de este cambio.
 
 - Ilustración de portada personalizada el 7/10/2026: Cadera y pelvis en public/assets/alfredo-cadera-illustration.png. Mantener el estilo común azul marino, cristal, marfil y oro. No restaurar el pie de Claudia en este perfil. Prompt y procedencia en docs/ILUSTRACION_PERFIL.md.
+
+- Corrección vigente del libro (7/10/2026): scienceIllustration usa assets/alfredo-cadera-libro-v2.png. Un único libro abierto normal con el objeto de la especialidad apoyado encima; no reutilizar la base anterior con páginas o libros duplicados. Se conservan los recursos anteriores como históricos. Prompt en docs/ILUSTRACION_PERFIL.md.
