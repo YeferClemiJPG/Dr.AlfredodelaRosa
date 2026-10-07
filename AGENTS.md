@@ -12,3 +12,5 @@
 - Animaciones con preferencia full predeterminada como la plantilla aprobada; respetar una preferencia reduce almacenada. No alterar ajustes del sistema.
 - Ejecutar npm run verify y npm run export:preview. Revisar escritorio y móvil, datos y descarga vCard. No afirmar pruebas en teléfonos físicos.
 - Publicación estática por GitHub Pages en main; confirmar despliegue y sitio antes de afirmar disponibilidad. Hostinger queda fuera de este cambio.
+
+- Ilustración de portada personalizada el 7/10/2026: Cadera y pelvis en public/assets/alfredo-cadera-illustration.png. Mantener el estilo común azul marino, cristal, marfil y oro. No restaurar el pie de Claudia en este perfil. Prompt y procedencia en docs/ILUSTRACION_PERFIL.md.
